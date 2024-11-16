@@ -1,28 +1,49 @@
 # 👋 Hi, I'm Muhammet Yılmaz!
 
-I am a passionate developer with a diverse skill set in both front-end and back-end technologies. My expertise spans across:
+I am a passionate developer with a diverse skill set in both front-end and back-end technologies, as well as expertise in server management, DevOps, and machine learning. I strive to build efficient, scalable, and user-friendly systems while constantly expanding my knowledge base.
 
-## 🚀 Skills
-- **Front-End Development**: 
-  - HTML
-  - CSS
+---
+
+## 🚀 **Skills**
+### **Front-End Development**
+- **Languages & Frameworks**: 
+  - HTML, CSS, JavaScript
   - Bootstrap 5
-  - JavaScript
 
-- **Back-End Development**: 
+### **Back-End Development**
+- **Languages & Tools**:
   - Node.js
   - SQL Server
+  - PostgreSQL
 
-- **Machine Learning**: 
-  - Proficient in Python and various machine learning libraries
+### **Machine Learning**
+- **Proficient in**: 
+  - Python
+  - Data analysis tools
+  - Big data frameworks
 
-- **DevOps**:
-  - Experienced in Linux hosting and server management
+### **DevOps & Server Management**
+- **Key Areas**:
+  - Linux server administration
+  - Docker
+  - Reverse proxy (Nginx)
+  - CI/CD pipelines using GitHub Actions
+  - Operations security (OpSec) awareness
 
-## 🌱 Current Learning
-I am constantly seeking to expand my knowledge and skills in new technologies and frameworks to enhance my capabilities as a developer.
+---
 
-## 📫 How to Reach Me
-Feel free to connect with me on LinkedIn: [Muhammet Yılmaz](https://www.linkedin.com/in/muhammet-yilmaz-anka)
+## 🌱 **Current Learning**
+I am actively developing my expertise in:
+- Linux Server Administrator and Operations Management
+- Technology Leadership
+- Advanced DevOps techniques
 
-Thanks for visiting my profile! 😊
+---
+
+## 📫 **How to Reach Me**
+- **LinkedIn**: [Muhammet Yılmaz](https://www.linkedin.com/in/muhammet-yilmaz-anka)
+- **Email**: [muhammetyilmaz@bakbul.tech](mailto:muhammetyilmaz@bakbul.tech)
+
+---
+
+Thank you for visiting my profile! 😊
